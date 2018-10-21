@@ -1,1 +1,6 @@
 theme: jekyll-theme-slate
+title: Emre Kemerci Github Repository
+description: My Portfolio from the courses in MEF University - Fall 2018
+
+encoding: UTF-8
+exclude: ["*.Rmd"] 
