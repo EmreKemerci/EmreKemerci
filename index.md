@@ -7,5 +7,7 @@
 ***
 ### BDA505-Big Data Management
 Our lecture notes: [Binder1](https://mybinder.org/v2/gh/serhatcevikel/bdm_2018_test/master) [Binder2](https://mybinder.org/v2/gh/serhatcevikel/bdm_2018_test2/master)
+
+
 ***
 ### BDA501-Applied Statistics
