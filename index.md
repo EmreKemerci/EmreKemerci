@@ -9,7 +9,7 @@
 
 ***
 ### BDA505-Big Data Management
-Our lecture notes: [Binder1](https://mybinder.org/v2/gh/serhatcevikel/bdm_2018_test/master) [Binder2](https://mybinder.org/v2/gh/serhatcevikel/bdm_2018_test2/master) [Binder3](https://mybinder.org/v2/gh/serhatcevikel/bdm_2018_test2/hadoop3)
+Our lecture notes: [Binder1](https://mybinder.org/v2/gh/serhatcevikel/bdm_2018_test/master) [Binder2](https://mybinder.org/v2/gh/serhatcevikel/bdm_2018_test2/master) [Binder3](https://mybinder.org/v2/gh/serhatcevikel/bdm_2018_test2/hadoop3) [Binder4](https://mybinder.org/v2/gh/serhatcevikel/bdm_2018_test2/hadoop6)
 
 
 ***
