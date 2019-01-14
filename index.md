@@ -1,4 +1,4 @@
-## Welcome to Emre Kemerci's GitHub Page
+
 
 
 ### [BDA503-Essentials of Data Analysis](https://emrekemerci.github.io/bda503EmreKemerci/)
