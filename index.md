@@ -10,8 +10,13 @@ Our lecture notes: [Binder1](https://mybinder.org/v2/gh/serhatcevikel/bdm_2018_t
 
 ***
 ### BDA507-Introduction to Programming
-[My Term Project (Draft)](bda507/BDA507TermProject_EmreKemerci20190112.html)
+[My Term Project](bda507/BDA507TermProject_EmreKemerci20190112.html)
 
+***
+### BDA502- Intro to Machine Learning
+
+***
+### BDA541 - Optimization and Simulation
 
 
 
